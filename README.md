@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @B3eee3 but you can just call me Bee 
+- 👀 I’m interested in learning as much as I can! I am mainly focused rn on my minecraft server project for my University.
+- 🌱 I’m currently learning Denizen Scripting, Java Script, and C++
+- 💞️ I’m looking to collaborate on Denizen Scipting! I love learning the creative solutions that people do!
